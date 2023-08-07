@@ -149,7 +149,7 @@ The percent of the population infected, with future forecasting
 
 ![image](https://github.com/Sam-Galvez-Hyvarinen/COVID-19_Projects/assets/129132100/1053cceb-9bc1-4821-9d22-037651f5deb6)
 
-To view the interactive Dashboard in its entirety, please see Tableau link at the top.
+To view the interactive Dashboard in its entirety, please see my [Tableau](https://public.tableau.com/app/profile/samantha.galvez/viz/Covid-19DashboardUpdated1/Dashboard1?publish=yes)
 
 ## Conclusion and Reccomendations 
 
